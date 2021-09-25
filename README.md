@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @_mohsen_ghalandar
+- 📫 I study G.I.S (geography information system) in master degree and work on web g.i.s
 - 👀 I’m interested in web-app,front-end
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on web-app full stack team
